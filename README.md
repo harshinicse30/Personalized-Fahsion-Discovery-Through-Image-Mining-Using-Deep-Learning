@@ -33,7 +33,7 @@ Predict the category of given image and suggest similar images.
 ## Results
 Model prediction for stripes dress image.
 
-![Prediction]
+![Prediction]https://github.com/harshinicse30/Personalized-Fahsion-Discovery-Through-Image-Mining-Using-Deep-Learning/blob/main/prediction.png
 
 ---
 
