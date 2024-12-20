@@ -1,4 +1,4 @@
-# Dress Pattern Recognition using CNN
+# Personalized Fashion Discovery Through Imange Mining Using Deep Learning
 
 Task: To build an image recognition model which is capable of identifying the pattern on a dress image.
 
@@ -33,7 +33,7 @@ Predict the category of given image and suggest similar images.
 ## Results
 Model prediction for stripes dress image.
 
-![Prediction](https://github.com/aakashjhawar/dress-pattern-recognition-using-CNN/blob/master/prediction.png)
+![Prediction]
 
 ---
 
