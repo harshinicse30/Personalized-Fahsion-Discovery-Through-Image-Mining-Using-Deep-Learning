@@ -1,4 +1,4 @@
-# Personalized Fashion Discovery Through Imange Mining Using Deep Learning
+# Personalized Fashion Discovery Through Image Mining Using Deep Learning
 
 Task: To build an image recognition model which is capable of identifying the pattern on a dress image.
 
